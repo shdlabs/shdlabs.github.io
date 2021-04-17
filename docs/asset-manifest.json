@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.ed60b81c.chunk.css",
-  "main.js": "/static/js/main.f3305e85.chunk.js",
-  "main.js.map": "/static/js/main.f3305e85.chunk.js.map",
+  "main.js": "/static/js/main.f41f6d8c.chunk.js",
+  "main.js.map": "/static/js/main.f41f6d8c.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
@@ -29,7 +29,7 @@
   "may/mishka.jpeg": "/may/mishka.jpeg",
   "may/mishkaIcon.png": "/may/mishkaIcon.png",
   "may/unicorn.svg": "/may/unicorn.svg",
-  "precache-manifest.b5a426944daea40df55a278a39a37436.js": "/precache-manifest.b5a426944daea40df55a278a39a37436.js",
+  "precache-manifest.00ce95772e13ed017e53dd66f39f275b.js": "/precache-manifest.00ce95772e13ed017e53dd66f39f275b.js",
   "test.md": "/test.md",
   "test2.html": "/test2.html"
 }
