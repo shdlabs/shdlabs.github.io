@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa9610569663ba63e69f854c8775c724",
+    "revision": "6a27017cc22bb6e0d001d4e9b6f93752",
     "url": "/.DS_Store"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icons/heart.svg"
   },
   {
-    "revision": "29d4c6ddab5a2b0f1024b6709bb5edf0",
+    "revision": "5644a0f37522dd708555e0997220660d",
     "url": "/index.html"
   },
   {
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71c709681e8a33900738ca4365199ad4",
     "url": "/may/alex.png"
+  },
+  {
+    "revision": "183b7fddf325b3f4c7e967a1e64bf7c4",
+    "url": "/may/irisIcon.png"
   },
   {
     "revision": "43ee3ca339e4a231dc6d3a17dfb87ac0",
@@ -64,12 +68,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/mishkaIcon.png"
   },
   {
-    "revision": "08dee8dc83ac2fbcf14e",
+    "revision": "5ad3929c477649e66f7d750f2bb557b6",
+    "url": "/may/nicks.jpeg"
+  },
+  {
+    "revision": "284d40e8aa1ab2bce21812026032820a",
+    "url": "/may/nicksIcon.png"
+  },
+  {
+    "revision": "200fb56f3ddeaff05d2b7588ac3949df",
+    "url": "/may/yasminIcon.png"
+  },
+  {
+    "revision": "fc97d8d2ce45c85e9607",
     "url": "/static/css/main.0affdcda.chunk.css"
   },
   {
-    "revision": "08dee8dc83ac2fbcf14e",
-    "url": "/static/js/main.08dee8dc.chunk.js"
+    "revision": "fc97d8d2ce45c85e9607",
+    "url": "/static/js/main.fc97d8d2.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",
