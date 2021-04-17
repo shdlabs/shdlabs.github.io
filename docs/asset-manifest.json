@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.ed60b81c.chunk.css",
-  "main.js": "/static/js/main.f41f6d8c.chunk.js",
-  "main.js.map": "/static/js/main.f41f6d8c.chunk.js.map",
+  "main.js": "/static/js/main.b8270825.chunk.js",
+  "main.js.map": "/static/js/main.b8270825.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
@@ -19,9 +19,12 @@
   "manifest.json": "/manifest.json",
   "may/.DS_Store": "/may/.DS_Store",
   "may/WhatsApp Image 2021-04-14 at 16.33.21.jpeg": "/may/WhatsApp Image 2021-04-14 at 16.33.21.jpeg",
+  "may/abavmay.jpeg": "/may/abavmay.jpeg",
   "may/adam.jpeg": "/may/adam.jpeg",
   "may/adamIcon.png": "/may/adamIcon.png",
   "may/alex.png": "/may/alex.png",
+  "may/lenaIcon.png": "/may/lenaIcon.png",
+  "may/lenush.jpeg": "/may/lenush.jpeg",
   "may/mama.jpeg": "/may/mama.jpeg",
   "may/mamaIcon.png": "/may/mamaIcon.png",
   "may/mayIcon.png": "/may/mayIcon.png",
@@ -29,7 +32,7 @@
   "may/mishka.jpeg": "/may/mishka.jpeg",
   "may/mishkaIcon.png": "/may/mishkaIcon.png",
   "may/unicorn.svg": "/may/unicorn.svg",
-  "precache-manifest.00ce95772e13ed017e53dd66f39f275b.js": "/precache-manifest.00ce95772e13ed017e53dd66f39f275b.js",
+  "precache-manifest.a0ab5072c5dbd306e2682d83ec00aa39.js": "/precache-manifest.a0ab5072c5dbd306e2682d83ec00aa39.js",
   "test.md": "/test.md",
   "test2.html": "/test2.html"
 }

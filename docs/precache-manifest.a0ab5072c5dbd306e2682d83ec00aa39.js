@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icons/search.svg"
   },
   {
-    "revision": "706de62a05523f753bc513ad2fa7601d",
+    "revision": "2198c5fddc4fd47d0bde18fe19b83976",
     "url": "/index.html"
   },
   {
@@ -48,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/WhatsApp Image 2021-04-14 at 16.33.21.jpeg"
   },
   {
+    "revision": "996d457089760de2699130349f674ee7",
+    "url": "/may/abavmay.jpeg"
+  },
+  {
     "revision": "d0350c0e6b29ee10fee9e9897bbe23f0",
     "url": "/may/adam.jpeg"
   },
@@ -58,6 +62,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71c709681e8a33900738ca4365199ad4",
     "url": "/may/alex.png"
+  },
+  {
+    "revision": "43ee3ca339e4a231dc6d3a17dfb87ac0",
+    "url": "/may/lenaIcon.png"
+  },
+  {
+    "revision": "54a3b4dae71b0f887bf26500cc8a31da",
+    "url": "/may/lenush.jpeg"
   },
   {
     "revision": "7b1a5c57db4bf520f02e1b57c1c2096d",
@@ -88,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/unicorn.svg"
   },
   {
-    "revision": "f41f6d8c860cb550040e",
+    "revision": "b8270825a859176b1ef7",
     "url": "/static/css/main.ed60b81c.chunk.css"
   },
   {
-    "revision": "f41f6d8c860cb550040e",
-    "url": "/static/js/main.f41f6d8c.chunk.js"
+    "revision": "b8270825a859176b1ef7",
+    "url": "/static/js/main.b8270825.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",
