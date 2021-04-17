@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.ed60b81c.chunk.css",
-  "main.js": "/static/js/main.a1f124ae.chunk.js",
-  "main.js.map": "/static/js/main.a1f124ae.chunk.js.map",
+  "main.js": "/static/js/main.77030d25.chunk.js",
+  "main.js.map": "/static/js/main.77030d25.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
@@ -22,10 +22,14 @@
   "may/adam.jpeg": "/may/adam.jpeg",
   "may/adamIcon.png": "/may/adamIcon.png",
   "may/alex.png": "/may/alex.png",
+  "may/mama.jpeg": "/may/mama.jpeg",
+  "may/mamaIcon.png": "/may/mamaIcon.png",
   "may/mayIcon.png": "/may/mayIcon.png",
   "may/mayIcon.svg": "/may/mayIcon.svg",
+  "may/mishka.jpeg": "/may/mishka.jpeg",
+  "may/mishkaIcon.png": "/may/mishkaIcon.png",
   "may/unicorn.svg": "/may/unicorn.svg",
-  "precache-manifest.b91694cd3be6e0d710968b3ed22ad3a8.js": "/precache-manifest.b91694cd3be6e0d710968b3ed22ad3a8.js",
+  "precache-manifest.959ecdf0112ceb287c19f9376e594be8.js": "/precache-manifest.959ecdf0112ceb287c19f9376e594be8.js",
   "test.md": "/test.md",
   "test2.html": "/test2.html"
 }

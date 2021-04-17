@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icons/search.svg"
   },
   {
-    "revision": "605f7a898adb7fcab6e82669477960e1",
+    "revision": "046cdaffdb2774e7d4241083421e37a0",
     "url": "/index.html"
   },
   {
@@ -60,6 +60,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/alex.png"
   },
   {
+    "revision": "7b1a5c57db4bf520f02e1b57c1c2096d",
+    "url": "/may/mama.jpeg"
+  },
+  {
+    "revision": "1c19cee031b3d11ad6b5040a523d6f07",
+    "url": "/may/mamaIcon.png"
+  },
+  {
     "revision": "836702a04a1de9be21fbd4918bc74525",
     "url": "/may/mayIcon.png"
   },
@@ -68,16 +76,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/mayIcon.svg"
   },
   {
+    "revision": "aaf62628aeee5d2a6696c070cca32c45",
+    "url": "/may/mishka.jpeg"
+  },
+  {
+    "revision": "0dffbc3725f5556efd67def4b4a9ff58",
+    "url": "/may/mishkaIcon.png"
+  },
+  {
     "revision": "1580a8363bcd735c3fefa283da1010a4",
     "url": "/may/unicorn.svg"
   },
   {
-    "revision": "a1f124ae404393fd7ec8",
+    "revision": "77030d25bba19e16b213",
     "url": "/static/css/main.ed60b81c.chunk.css"
   },
   {
-    "revision": "a1f124ae404393fd7ec8",
-    "url": "/static/js/main.a1f124ae.chunk.js"
+    "revision": "77030d25bba19e16b213",
+    "url": "/static/js/main.77030d25.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",
