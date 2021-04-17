@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a27017cc22bb6e0d001d4e9b6f93752",
+    "revision": "421d428d3abf0463c41908daa5da62a9",
     "url": "/.DS_Store"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icons/search.svg"
   },
   {
-    "revision": "056fca021660be235a6ea01536831b2c",
+    "revision": "605f7a898adb7fcab6e82669477960e1",
     "url": "/index.html"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "700f149b15ce78cc7ea38b42468946e4",
+    "revision": "58c8a612e3f3bdda556bf4d071706d10",
     "url": "/may/.DS_Store"
   },
   {
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d0350c0e6b29ee10fee9e9897bbe23f0",
     "url": "/may/adam.jpeg"
+  },
+  {
+    "revision": "ecb640c0b13d6b3f85a7dfa7eba1a245",
+    "url": "/may/adamIcon.png"
   },
   {
     "revision": "71c709681e8a33900738ca4365199ad4",
@@ -68,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/unicorn.svg"
   },
   {
-    "revision": "d60f64c6265d9774cf5e",
+    "revision": "a1f124ae404393fd7ec8",
     "url": "/static/css/main.ed60b81c.chunk.css"
   },
   {
-    "revision": "d60f64c6265d9774cf5e",
-    "url": "/static/js/main.d60f64c6.chunk.js"
+    "revision": "a1f124ae404393fd7ec8",
+    "url": "/static/js/main.a1f124ae.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",
