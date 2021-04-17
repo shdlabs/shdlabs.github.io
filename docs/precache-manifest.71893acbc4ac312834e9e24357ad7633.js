@@ -4,18 +4,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AlexGoph.png"
   },
   {
-    "revision": "543f43f8fd5d5a8e56f83935796ab42e",
-    "url": "/ColoredBee.png"
-  },
-  {
-    "revision": "abac490c09fecdba8e99a10696be5206",
-    "url": "/d1.jpeg"
-  },
-  {
-    "revision": "3592efe9a5d55d5698eb33a85e57f6e4",
-    "url": "/d2.jpeg"
-  },
-  {
     "revision": "987da976a8b2a4169346a497ba84749d",
     "url": "/favicon.ico"
   },
@@ -36,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icons/search.svg"
   },
   {
-    "revision": "4b672e152a496635e5c5b5200e7f5f99",
+    "revision": "fc31a29b319a84d7599d406e6eed8682",
     "url": "/index.html"
   },
   {
@@ -44,16 +32,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/logo.svg"
   },
   {
-    "revision": "1c82903c2994c2507b385b9042bbfac5",
+    "revision": "79ecc3dccdb9032f6a8df58ae8da9c0a",
     "url": "/manifest.json"
   },
   {
-    "revision": "5bfe2df9912a29add5a9",
+    "revision": "1aa0b174d32f531ae0e0d0af9e83fde1",
+    "url": "/may/WhatsApp Image 2021-04-14 at 16.33.21.jpeg"
+  },
+  {
+    "revision": "836702a04a1de9be21fbd4918bc74525",
+    "url": "/may/mayIcon.png"
+  },
+  {
+    "revision": "ecf1ff948ffdd0f2048ae28698a0189b",
+    "url": "/may/mayIcon.svg"
+  },
+  {
+    "revision": "1580a8363bcd735c3fefa283da1010a4",
+    "url": "/may/unicorn.svg"
+  },
+  {
+    "revision": "9313f5d05f7355fb4771",
     "url": "/static/css/main.ed60b81c.chunk.css"
   },
   {
-    "revision": "5bfe2df9912a29add5a9",
-    "url": "/static/js/main.5bfe2df9.chunk.js"
+    "revision": "9313f5d05f7355fb4771",
+    "url": "/static/js/main.9313f5d0.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",
