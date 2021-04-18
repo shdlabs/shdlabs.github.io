@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.0affdcda.chunk.css",
-  "main.js": "/static/js/main.fc97d8d2.chunk.js",
-  "main.js.map": "/static/js/main.fc97d8d2.chunk.js.map",
+  "main.js": "/static/js/main.26f41d66.chunk.js",
+  "main.js.map": "/static/js/main.26f41d66.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
@@ -16,9 +16,13 @@
   "may/adam.jpeg": "/may/adam.jpeg",
   "may/adamIcon.png": "/may/adamIcon.png",
   "may/alex.png": "/may/alex.png",
+  "may/cake.jpeg": "/may/cake.jpeg",
+  "may/haryIcon.png": "/may/haryIcon.png",
   "may/irisIcon.png": "/may/irisIcon.png",
   "may/lenaIcon.png": "/may/lenaIcon.png",
   "may/lenush.jpeg": "/may/lenush.jpeg",
+  "may/maayan.jpeg": "/may/maayan.jpeg",
+  "may/maayanIcon.png": "/may/maayanIcon.png",
   "may/mama.jpeg": "/may/mama.jpeg",
   "may/mamaIcon.png": "/may/mamaIcon.png",
   "may/mayIcon.png": "/may/mayIcon.png",
@@ -27,5 +31,5 @@
   "may/nicks.jpeg": "/may/nicks.jpeg",
   "may/nicksIcon.png": "/may/nicksIcon.png",
   "may/yasminIcon.png": "/may/yasminIcon.png",
-  "precache-manifest.a45593f363c859baf843465c3aa41472.js": "/precache-manifest.a45593f363c859baf843465c3aa41472.js"
+  "precache-manifest.1bafe6a0498e2401df76fb7c6ba9622b.js": "/precache-manifest.1bafe6a0498e2401df76fb7c6ba9622b.js"
 }
