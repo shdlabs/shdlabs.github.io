@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/.DS_Store"
   },
   {
-    "revision": "e3b07867ccdd87bba9a43f1aeb73e33f",
+    "revision": "a87af4f4c936d6d47f2755aeda140540",
     "url": "/icons/heart.svg"
   },
   {
-    "revision": "8f4ce8e30b03c4f085255a08861ead61",
+    "revision": "d36c3f2f3d9c94a34f4a7682344795bd",
     "url": "/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "04e8ec5dd3d0ecf8c57dc9f89a412392",
+    "revision": "6198cc7fc2243d7a9d47a23a36fbe0da",
     "url": "/may/.DS_Store"
   },
   {
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6e4206e9d383d8aede56882ad50feac3",
     "url": "/may/cake.jpeg"
+  },
+  {
+    "revision": "c61481ce6b0f39198d78ce94ffc089e7",
+    "url": "/may/harmanyIcon.png"
   },
   {
     "revision": "b473a7f784fe97ff5170ae865c420cba",
@@ -96,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/yasminIcon.png"
   },
   {
-    "revision": "26f41d66b9ccbdd1bf84",
+    "revision": "01dc619bc6efe50f80c6",
     "url": "/static/css/main.0affdcda.chunk.css"
   },
   {
-    "revision": "26f41d66b9ccbdd1bf84",
-    "url": "/static/js/main.26f41d66.chunk.js"
+    "revision": "01dc619bc6efe50f80c6",
+    "url": "/static/js/main.01dc619b.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",
