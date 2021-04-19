@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.0affdcda.chunk.css",
-  "main.js": "/static/js/main.c77c60a4.chunk.js",
-  "main.js.map": "/static/js/main.c77c60a4.chunk.js.map",
+  "main.js": "/static/js/main.23d9993c.chunk.js",
+  "main.js.map": "/static/js/main.23d9993c.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
@@ -32,5 +32,5 @@
   "may/nicks.jpeg": "/may/nicks.jpeg",
   "may/nicksIcon.png": "/may/nicksIcon.png",
   "may/yasminIcon.png": "/may/yasminIcon.png",
-  "precache-manifest.ba1bba73e78a8902732762d7433d83ee.js": "/precache-manifest.ba1bba73e78a8902732762d7433d83ee.js"
+  "precache-manifest.c0224425743e3c71d9589ee484b203a9.js": "/precache-manifest.c0224425743e3c71d9589ee484b203a9.js"
 }
