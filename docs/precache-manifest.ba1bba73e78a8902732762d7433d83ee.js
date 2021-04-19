@@ -1,23 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad819a75189cadd77246b6689e439292",
+    "revision": "f4469117efd48c1f5c2d188ab11ec51f",
     "url": "/.DS_Store"
   },
   {
-    "revision": "a87af4f4c936d6d47f2755aeda140540",
-    "url": "/icons/heart.svg"
-  },
-  {
-    "revision": "d36c3f2f3d9c94a34f4a7682344795bd",
+    "revision": "7ca57a9d9c91a3f42c8c385b7366fcf2",
     "url": "/index.html"
   },
   {
-    "revision": "213298a015bab4d34e2960b8a8ae2efc",
+    "revision": "08fe8dc2a3e853a2dde5ba133e8c50ab",
     "url": "/manifest.json"
-  },
-  {
-    "revision": "6198cc7fc2243d7a9d47a23a36fbe0da",
-    "url": "/may/.DS_Store"
   },
   {
     "revision": "996d457089760de2699130349f674ee7",
@@ -80,6 +72,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/mayIcon.png"
   },
   {
+    "revision": "bcdd6b7d7a067b14132627a07fc4140f",
+    "url": "/may/menu.svg"
+  },
+  {
+    "revision": "7030be61d3673597370f797c55e02e3e",
+    "url": "/may/menu1.svg"
+  },
+  {
     "revision": "aaf62628aeee5d2a6696c070cca32c45",
     "url": "/may/mishka.jpeg"
   },
@@ -100,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/yasminIcon.png"
   },
   {
-    "revision": "01dc619bc6efe50f80c6",
+    "revision": "c77c60a491d2f60d6c31",
     "url": "/static/css/main.0affdcda.chunk.css"
   },
   {
-    "revision": "01dc619bc6efe50f80c6",
-    "url": "/static/js/main.01dc619b.chunk.js"
+    "revision": "c77c60a491d2f60d6c31",
+    "url": "/static/js/main.c77c60a4.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",

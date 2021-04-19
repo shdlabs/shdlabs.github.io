@@ -1,17 +1,15 @@
 {
   "main.css": "/static/css/main.0affdcda.chunk.css",
-  "main.js": "/static/js/main.01dc619b.chunk.js",
-  "main.js.map": "/static/js/main.01dc619b.chunk.js.map",
+  "main.js": "/static/js/main.c77c60a4.chunk.js",
+  "main.js.map": "/static/js/main.c77c60a4.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
   "vendors~main.js.map": "/static/js/vendors~main.0b49ec49.chunk.js.map",
   "./service-worker.js": "/./service-worker.js",
   ".DS_Store": "/.DS_Store",
-  "icons/heart.svg": "/icons/heart.svg",
   "index.html": "/index.html",
   "manifest.json": "/manifest.json",
-  "may/.DS_Store": "/may/.DS_Store",
   "may/abavmay.jpeg": "/may/abavmay.jpeg",
   "may/adam.jpeg": "/may/adam.jpeg",
   "may/adamIcon.png": "/may/adamIcon.png",
@@ -27,10 +25,12 @@
   "may/mama.jpeg": "/may/mama.jpeg",
   "may/mamaIcon.png": "/may/mamaIcon.png",
   "may/mayIcon.png": "/may/mayIcon.png",
+  "may/menu.svg": "/may/menu.svg",
+  "may/menu1.svg": "/may/menu1.svg",
   "may/mishka.jpeg": "/may/mishka.jpeg",
   "may/mishkaIcon.png": "/may/mishkaIcon.png",
   "may/nicks.jpeg": "/may/nicks.jpeg",
   "may/nicksIcon.png": "/may/nicksIcon.png",
   "may/yasminIcon.png": "/may/yasminIcon.png",
-  "precache-manifest.2744130b58a99c187afab590ee94c8b9.js": "/precache-manifest.2744130b58a99c187afab590ee94c8b9.js"
+  "precache-manifest.ba1bba73e78a8902732762d7433d83ee.js": "/precache-manifest.ba1bba73e78a8902732762d7433d83ee.js"
 }
