@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4469117efd48c1f5c2d188ab11ec51f",
+    "revision": "bd7f0c53ec35a2a9677c326c7a6b7d1e",
     "url": "/.DS_Store"
   },
   {
-    "revision": "b648a480e20f14fcce4fd451e9fea971",
+    "revision": "63ff0d0165b377bd3188643555b236e9",
     "url": "/index.html"
   },
   {
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/mayIcon.png"
   },
   {
+    "revision": "04bd85720a282da564c82d235068d73e",
+    "url": "/may/mayParty.jpeg"
+  },
+  {
     "revision": "bcdd6b7d7a067b14132627a07fc4140f",
     "url": "/may/menu.svg"
   },
@@ -100,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/may/yasminIcon.png"
   },
   {
-    "revision": "23d9993c12e511286dd2",
+    "revision": "74842daa2029c98806a3",
     "url": "/static/css/main.0affdcda.chunk.css"
   },
   {
-    "revision": "23d9993c12e511286dd2",
-    "url": "/static/js/main.23d9993c.chunk.js"
+    "revision": "74842daa2029c98806a3",
+    "url": "/static/js/main.74842daa.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",
